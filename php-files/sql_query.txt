@@ -1,0 +1,20 @@
+
+CREATE TABLE faculty_member  (
+    fm_id int NOT NULL AUTO_INCREMENT,
+    fm_name varchar(255) NOT NULL,
+        fm_address varchar(255) NOT NULL,
+        fm_designation varchar(255) NOT NULL,
+
+    fm_salary int,
+    PRIMARY KEY (Personid)
+);
+
+CREATE TABLE qualification  (
+    q_id int NOT NULL AUTO_INCREMENT,
+    degree_tittle varchar(255) NOT NULL,
+        year_of_passing varchar(255) NOT NULL,
+        institute_attended varchar(255) NOT NULL,
+    PRIMARY KEY (q_id)
+);
+
+ALTER TABLE qualification ADD FOREIGN KEY(fm_id) REFERENCES faculty_member(fm_id)

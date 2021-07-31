@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/faculty-directory/static/css/main.f61dc808.chunk.css",
+    "main.js": "/faculty-directory/static/js/main.86c65203.chunk.js",
+    "main.js.map": "/faculty-directory/static/js/main.86c65203.chunk.js.map",
+    "runtime-main.js": "/faculty-directory/static/js/runtime-main.b17ab520.js",
+    "runtime-main.js.map": "/faculty-directory/static/js/runtime-main.b17ab520.js.map",
+    "static/js/2.64fcc5d3.chunk.js": "/faculty-directory/static/js/2.64fcc5d3.chunk.js",
+    "static/js/2.64fcc5d3.chunk.js.map": "/faculty-directory/static/js/2.64fcc5d3.chunk.js.map",
+    "static/js/3.522637b6.chunk.js": "/faculty-directory/static/js/3.522637b6.chunk.js",
+    "static/js/3.522637b6.chunk.js.map": "/faculty-directory/static/js/3.522637b6.chunk.js.map",
+    "index.html": "/faculty-directory/index.html",
+    "static/css/main.f61dc808.chunk.css.map": "/faculty-directory/static/css/main.f61dc808.chunk.css.map",
+    "static/js/2.64fcc5d3.chunk.js.LICENSE.txt": "/faculty-directory/static/js/2.64fcc5d3.chunk.js.LICENSE.txt",
+    "static/media/App.module.css": "/faculty-directory/static/media/project.5ad60960.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b17ab520.js",
+    "static/js/2.64fcc5d3.chunk.js",
+    "static/css/main.f61dc808.chunk.css",
+    "static/js/main.86c65203.chunk.js"
+  ]
+}
